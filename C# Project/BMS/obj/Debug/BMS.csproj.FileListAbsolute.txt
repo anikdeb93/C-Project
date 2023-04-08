@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\BMS\bin\Debug\BMS.exe.config
+C:\Users\ASUS\source\repos\BMS\bin\Debug\BMS.exe
+C:\Users\ASUS\source\repos\BMS\bin\Debug\BMS.pdb
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form1.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.exe
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.pdb
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form2.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form3.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form4.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form5.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form6.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form7.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.Form8.resources
+C:\Users\ASUS\source\repos\BMS\obj\Debug\BMS.csproj.AssemblyReference.cache
